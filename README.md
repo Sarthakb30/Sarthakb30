@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Barke</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
-<img align="right" alt="coding" with="400" src="https://media2.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952isoejr3rbfl9ynbz21i7zg167w1lpoc89mbyedim&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
+<img align="right" alt="coding" with="200" hight="200" src="https://media2.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952isoejr3rbfl9ynbz21i7zg167w1lpoc89mbyedim&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakb30&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakb30" /> </p>
 
